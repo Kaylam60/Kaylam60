@@ -55,9 +55,9 @@ I have a Bachelor of Science degree in Electrical and Computer Engineering from 
 
 #### Protocols
 ![I2C](https://img.shields.io/badge/I2C-Communication-informational?style=for-the-badge)
-![SPI](https://img.shields.io/badge/SPI-Communication-informational)
-![CAN](https://img.shields.io/badge/CAN-Bus-informational)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-informational)
+![SPI](https://img.shields.io/badge/SPI-Communication-informational?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN-Bus-informational?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-informational?style=for-the-badge)
 
 ###### Deployment & Cloud Services:
 ![Docker](https://img.shields.io/badge/-Docker-230db7ed?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
